@@ -1,0 +1,13 @@
+background and foreground colors and text with enough puntuation so that it can be read on any type of screen no matter the lighting.
+
+headings have to be in the correct order.
+
+specify sematic elements (like page header) for the screen reader.
+
+use WAI-ARIA elements to specify parts for screen readers (tables.)
+
+alt text on pictures for screen readers and has to specify in a simple way what the picture is showing.
+
+have to specify links and make them in short words for screen readers, links also need different colors for different actions and to be underlined for colorblindess.
+
+text that is simple and gets to the point.
