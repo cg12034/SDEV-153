@@ -5,20 +5,22 @@ body {font-size: 16px}
 {background-color: #FFD700}
 
 h1 {color: #B11010;}
-    {background-color: #FFFFFF ;}
+    {background-color: #FFFFFF;}
     {font-size: 30px}
-h2 {background-color: #3D3D3D }
+    {font-style: futura}
+#top {background-color: #3D3D3D }
   {color: #A6E3A8}
   {font-size: 27px}
+  {font-style: cooper}
 
 h3 {background-color: #FFFFFF }
   {color: #006161}
   {font-size: 24px}
 
-a:link {color: #FF4500}
+a:link {color: #FF6F61}
 
-a:visited {color: #FF5733}
+a:visited {color: orange}
 
-a:hover {color: #008E8F}
+a:hover {color: tealgreen}
 
 a:active {color: #A6E3A8}
