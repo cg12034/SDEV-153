@@ -6,21 +6,21 @@
 
 body {color: #5E00D1;
      background-color: #CEFFC7;
-     font-family: Papyrus;
+     font-family: "Verdana" sans-serif;
      font-size: 16px
      line-height: 1.5}
 
 h1 {color: #9E0000;
-   font-family: Georgia;
+   font-family: "Georgia" serif;
     font-size: 30px;
    text-aling: center;}
 h2 {color: #5E00D1;
-    font-family: Courier-New; 
+    font-family: "Courier-New", monospace; 
     font-size: 27px}
 #about {color: #5700FF
     font-family: Sans-serif;}
 h3 {color: #5E00D1;
-    font-family: Georgia;
+    font-family: "Courier-New", monospace;
     font-size: 24px;}
 
 a:link {
