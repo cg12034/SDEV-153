@@ -6,4 +6,6 @@ root{--header-color: #0004D0;
 
 body {color: var(--font-color)
      background-color: var(--bg-color)
-     font-family: courier-prime}
+     font-family: Papyrus;}
+#about {color: #5700FF}
+{font-family: Monospace;}
