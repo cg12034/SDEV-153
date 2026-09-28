@@ -1,4 +1,4 @@
-root{--header-color: #0004D0;
+:root{--header-color: #0004D0;
     --font-color: #5E00D1;
     --bg-color: #CEFFC7;
      }
@@ -8,4 +8,5 @@ body {color: var(--font-color)
      background-color: var(--bg-color)
      font-family: Papyrus;}
 #about {color: #5700FF}
-{font-family: Monospace;}
+{font-family: Sans-serif;}
+
