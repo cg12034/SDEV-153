@@ -16,7 +16,8 @@ h1 {color: #9E0000;
    text-aling: center;}
 h2 {color: #5E00D1;
     font-family: "Courier-New", monospace; 
-    font-size: 27px}
+    font-size: 27px;
+   display: inline}
 #about {color: #5700FF
     font-family: Sans-serif;}
 h3 {color: #5E00D1;
